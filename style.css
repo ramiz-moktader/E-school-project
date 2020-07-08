@@ -1,0 +1,100 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.row h1 {
+  font-size: 48px;
+  line-height: 70px;
+  font-weight: bolder;
+
+}
+
+.row h5 {
+  padding-top: 20px;
+
+}
+
+.top-banner {
+  background: #F0FFF0;
+  height: 576px;
+}
+
+.green-button {
+  background: #21B573;
+  border: none;
+  border-radius: 33px;
+  padding: 12px 36px;
+  cursor: pointer;
+  color: white;
+}
+
+.gray-color-text {
+  font-size: 16px;
+  color: #6C6B6B;
+}
+
+
+.categories {
+  padding: 50px;
+}
+
+.cat-1 {
+  width: 270px;
+  height: 270px;
+  background: #F8FFFB;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.cat-1 img {
+  width: 66px;
+  height: 85px;
+}
+
+.bg-shadow {
+  background: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.text-in-center {
+  text-align: center;
+  padding: 50px;
+}
+
+.text-in-center h2 {
+  font-weight: bold;
+}
+
+.card .card-footer {
+  background: none;
+  border: none;
+}
+
+.card-footer img {
+  width: 24px;
+  height: 24px;
+}
+
+.card-footer-date {
+  font-weight: 500;
+  padding-left: 5px;
+  color: #585859;
+}
+
+.footer-colum {
+  padding: 0px 10px;
+}
+
+.footer {
+
+  background: #282531;
+  margin-top: 50px;
+}
+
+.footer-text {
+  color: #FFFFFF;
+}
+
+.row {
+  padding: 50px;
+}
